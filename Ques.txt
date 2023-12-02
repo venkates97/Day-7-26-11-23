@@ -1,0 +1,8 @@
+Create a form which will collect the following information
+1. Firstname
+2. Middlename
+3. Lastname
+4. Email
+5. Password
+
+Deploy the above code into netlify
